@@ -4,9 +4,9 @@
 <!-- 2022-11-10 Thu 13:06 -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Kaushik Kulkarni</title>
+<title>Sainath Barbhai</title>
 <meta name="generator" content="Org mode">
-<meta name="author" content="Kaushik Kulkarni">
+<meta name="author" content="Sainath Barbhai">
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
   .title  { text-align: center;
@@ -218,18 +218,16 @@
 <body>
 <div id="content">
 <header>
-<h1 class="title">Kaushik Kulkarni</h1>
+<h1 class="title">Sainath Barbhai</h1>
 </header><p>
-I am a PhD student at University of Illinois at Urbana-Champaign where I am a
-part of the <a href="http://scicomp.cs.illinois.edu/">Scientific Computing group</a> in the Computer Science Department. I am
-working with <a href="https://andreask.cs.illinois.edu/">Prof. Andreas Klöckner</a> on <i>Domain Specific Compilers</i> for Numerical
-Methods for PDEs.
+I am an MS student at the University of Illinois at Urbana-Champaign. I am associated with the <a href="https://fengfluidslab.web.illinois.edu/wp/">Feng Research Group</a> conducting fluid mechanics research with a focus on investigating bubble bursting and their implications on aerosols. I am
+working with <a href="https://mechse.illinois.edu/people/profile/jiefeng/">Prof. Jie Feng</a> on Understanding Jetting Dynamics from <i>Compound Bubble Bursting with Viscoelastic Interfaces</i>.
 </p>
 
 <p>
-Before starting out as a PhD Student, I was an undergraduate student at
-Indian Institute of Technology at Bombay, where I worked on topics
-related to Computational Fluid Dynamics.
+Before starting out as an MS Student, I was an undergraduate student at
+University of Mumbai, India studying Mechacaincal Engineering where I worked on topics
+related to Rocket Propulsion.
 </p>
 
 <hr>
@@ -243,19 +241,19 @@ To know more about me please visit &#x2013;
 <li><a href="publications.html">Publications</a></li>
 <li><a href="talks.html">Talks</a></li>
 <li><a href="extras/resume.pdf">My CV</a></li>
-<li><a href="https://github.com/kaushikcfd/">My GitHub profile</a></li>
+<li><a href="https://github.com/SainathBarbhai/">My GitHub profile</a></li>
 </ul>
 
 <hr>
 
 <p>
-<b>Contact:</b> <a href="mailto:kgk2@illinois.edu">kgk2@illinois.edu</a>
+<b>Contact:</b> <a href="mailto:barbhai2@illinois.edu">barbhai2@illinois.edu</a>
 </p>
 
 <hr>
 </div>
 <div id="postamble" class="status">
-<p class="creator">Last Updated 2022-11-10 Thu 13:06.</p>
+<p class="creator">Last Updated 2024-11-10 Thu 22:51.</p>
 </div>
 </body>
 </html>
