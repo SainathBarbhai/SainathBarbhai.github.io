@@ -88,9 +88,9 @@
 
     <ul>
       <li><a href="research/APS_Poster_Draft5_Final.pdf">My Research</a></li>
-      <li><a href="publications.html">Publications</a></li>
+      <li><a href="research/publications">Publications</a></li>
       <li><a href="talks.html">Talks</a></li>
-      <li><a href="extras/resume.pdf">My CV</a></li>
+      <li><a href="resume/Resume- Sainath A.Barbhai.pdf">My Resume</a></li>
       <li><a href="https://github.com/SainathBarbhai/">My GitHub Profile</a></li>
     </ul>
 
@@ -102,7 +102,7 @@
   </div>
 
   <div id="postamble" class="status">
-    <p>Last Updated 2024-11-10 Thu 22:51.</p>
+    <p>Last Updated 2024-11-10 Fri 23:24.</p>
   </div>
 </body>
 </html>
