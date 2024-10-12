@@ -87,7 +87,7 @@
     <p>To know more about me, please visit:</p>
 
     <ul>
-      <li><a href="research.html">My Research</a></li>
+      <li><a href="research/APS_Poster_Draft5_Final.pdf">My Research</a></li>
       <li><a href="publications.html">Publications</a></li>
       <li><a href="talks.html">Talks</a></li>
       <li><a href="extras/resume.pdf">My CV</a></li>
