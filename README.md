@@ -89,7 +89,7 @@
     <ul>
       <li><a href="research/APS_Poster_Draft5_Final.pdf">My Research</a></li>
       <li><a href="research/publication.html">Publications</a></li>
-      <li><a href="talks.html">Talks</a></li>
+      <!li><a href="talks.html">Talks</a></li>
       <li><a href="resume/Resume- Sainath A.Barbhai.pdf">My Resume</a></li>
       <li><a href="https://github.com/SainathBarbhai/">My GitHub Profile</a></li>
     </ul>
