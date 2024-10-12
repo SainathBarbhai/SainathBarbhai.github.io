@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Publications</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css"/>
+  <style>
+    /* Simplified inline styles */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+
+    #content {
+      width: 80%;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    hr {
+      margin: 20px 0;
+      border: 1px solid #ddd;
+    }
+
+    ref {
+      display: block;
+      margin: 10px 0;
+      font-style: italic;
+    }
+
+    a {
+      color: #007BFF;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    #postamble {
+      text-align: center;
+      font-size: 0.9em;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <div id="content">
+    <h1>Publication(s)</h1>
+
+    <ref>
+      Yang, Zhengyu, Barbhai, Sainath, Ji, Bingqiang, and Feng, Jie. 
+      &ldquo;Effect of Surface Viscoelasticity on Top Jet Drops Produced by Bursting Bubbles.&rdquo; 
+      <em>Soft Matter</em>, 2024. Royal Society of Chemistry.
+    </ref>
+
+    <hr>
+
+    <div id="postamble" class="status">
+      <p>Last Updated 2022-11-10.</br>Maintained with the help of 
+      <a href="http://github.com/sciunto-org/python-bibtexparser/">bibtexparser</a>
+      </p>
+    </div>
+  </div>
+</body>
+</html>
